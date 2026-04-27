@@ -52,14 +52,14 @@ Key DAX Calculations :
 - Previous Month Sales
 
 Key Insights :
-Coffee category contributes the highest revenue (~38%)  
-Barista Espresso** is the top-performing product (~$91K revenue)  
-Hell's Kitchen** is the best-performing store (~$236K revenue)  
+Coffee category contributes the highest revenue (38%)  
+Barista Espresso is the top-performing product ($91K revenue)  
+Hell's Kitchen is the best-performing store ($236K revenue)  
 Peak sales occur during morning hours (8 AM – 10 AM)  
-Weekdays generate ~71% of total revenue  
+Weekdays generate 71% of total revenue  
 
 How to Use :
-1. Download the `.pbix` file  
+1. Download the ".pbix" file  
 2. Open in Power BI Desktop  
 3. Refresh the dataset  
 4. Use filters to explore insights
